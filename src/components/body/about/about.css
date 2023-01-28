@@ -1,0 +1,43 @@
+.about{
+    padding-bottom: 48px;
+}
+
+.about-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.profile-picture{
+    height: 180px;
+    border-radius: 5px;
+    margin-left: 6px;
+}
+
+.about-info{
+    text-align: justify;
+    font-size: 24px;
+}
+.info-name{
+    color:blue;
+    font-size: 32px;
+}
+
+@media only screen and (max-width : 720px){
+    .about-top{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .profile-picture{
+        height: 120px;
+        margin-top: 8px;
+    }
+    .about-info{
+        font-size: 15px;
+    }
+    .info-name{
+        color:blue;
+        font-size: 20px;
+    }
+}
