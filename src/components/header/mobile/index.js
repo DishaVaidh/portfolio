@@ -14,25 +14,25 @@ function MobileHeader({ isOpen, setIsOpen }) {
 
       <div className="mobile-options">
         <div className="mobile-option">
-          <a target="_blank" href="#project">
+          <a href="#project">
             <i class="fi fi-rr-edit-alt option-icons"></i>
             Projects
           </a>
         </div>
         <div className="mobile-option">
-          <a target="_blank" href="#skills">
+          <a href="#skills">
             <i class="fi fi-rr-settings option-icons"></i>
             Skills
           </a>
         </div>
         <div className="mobile-option">
-          <a target="_blank" href="#work">
+          <a href="#work">
             <i class="fi fi-rr-briefcase option-icons"></i>
             Work
           </a>
         </div>
         <div className="mobile-option">
-          <a target="_blank" href="#contact">
+          <a href="#contact">
             <i class="fi fi-rr-user option-icons"></i>
             Contact
           </a>
