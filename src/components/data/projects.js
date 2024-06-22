@@ -22,7 +22,6 @@ export const ProjectData=[
         tags:["Python", "Async Programming", "Flask API", "Discord API"],
         github:"https://github.com/DishaVaidh/Trivia-Game-Discord-Bot",
         image:require ("../../assets/project3.png"),
-        demo:"https://discord.gg/YsmVysMz",
     },
     {
         id:4,

@@ -8,7 +8,7 @@ function About() {
             <div className='about-info'>
                 Hello there! I am <span className='info-name'>Disha Vaidh</span>
                 
-, Final year Undergraduate from IT branch from MBM Engineering University, Jodhpur.
+, working as a Software Engineer in Forcepoint.
 
 
             </div>
